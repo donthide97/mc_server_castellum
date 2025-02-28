@@ -8,9 +8,9 @@ So kann jeder den aktuellen Stand ziehen (clone oder pull) und nach Änderungen 
 Windows: Notwendige Installationen
 - Java (64-bit) installieren
     - https://www.java.com/de/download/manual.jsp
-    - Notwendig, damit der Minecraft-Server läuft
 
 - GitHub installieren
+    - https://desktop.github.com/download/
 
 - Ports freigeben 
     - TCP
