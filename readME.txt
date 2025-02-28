@@ -45,7 +45,7 @@ Windows: Notwendige Installationen
 
 
 4. Server hochladen
-    - Öffne Powershell in Windows (Shift + Rechtsklick im Ordner → "PowerShell hier öffnen") 
+    - Öffne Powershell in Windows in dem Server-Ordner (Shift + Rechtsklick im Ordner → "PowerShell hier öffnen") 
     - Änderung hinzufügen
         - git 
     - Commit mit Beschreibung
